@@ -4,7 +4,7 @@
 
 # 📡 Análise de Tráfego em Redes TCP/IP — Estudos e Prática
 
-Este repositório contém anotações, projetos, scripts e capturas de pacotes baseados no livro **_Análise de Tráfego em Redes TCP/IP_**, de João Eriberto Mota Filho (3ª edição - Ed. NOVATEC).
+Este repositório contém anotações, projetos, scripts e capturas de pacotes baseados no livro **_Análise de Tráfego em Redes TCP/IP_**, de João Eriberto Mota Filho (1ª edição - Ed. NOVATEC).
 
 <img src="https://m.media-amazon.com/images/I/81x-nHq0GXL._SL1436_.jpg" alt="Capa do livro" width="400">
 
@@ -73,5 +73,4 @@ Os arquivos criado durante todo o projeto de estudo estão dentro de cada pasta 
 
 ---
 
-📌 *Este projeto faz parte dos meus estudos em redes e segurança da informação.  
-Todo o conteúdo aqui é baseado no aprendizado contínuo e nas práticas que acompanham o livro de João Eriberto.*
+📌 *Este projeto faz parte dos meus estudos em redes e segurança da informação. Todo o conteúdo aqui é baseado no aprendizado contínuo e nas práticas que acompanham o livro de João Eriberto.*
