@@ -59,7 +59,7 @@ O livro apresenta uma abordagem prática e objetiva da análise de tráfego de r
 
 ## 🗂️ Estrutura do Repositório
 
-Os arquivos criado durante todo o projeto de estudo estão dentro de cada pasta a seguir:
+Os arquivos criados durante todo o estudo estão dentro de cada pasta a seguir:
 
 - **capturas/**: salvos os arquivos .pcap do tcpdump ou Wireshark.
 - **scripts/**:  meus scripts em Bash, Python etc.
