@@ -4,7 +4,7 @@
 
 # 📡 Análise de Tráfego em Redes TCP/IP — Estudos e Prática
 
-Este repositório contém anotações, projetos, scripts e capturas de pacotes baseados no livro **_Análise de Tráfego em Redes TCP/IP_**, de João Eriberto Mota Filho (1ª edição - Ed. NOVATEC).
+Este repositório contém anotações, projetos, scripts e capturas de pacotes baseados no livro **_ANÁLISE DE TRÁFEGO EM REDES TCP/IP - Utilize tcpdump na Análise de Tráfegos em Qualquer Sistema Operacional_**, de João Eriberto Mota Filho (1ª edição - Ed. NOVATEC).
 
 <img src="https://m.media-amazon.com/images/I/81x-nHq0GXL._SL1436_.jpg" alt="Capa do livro" width="400">
 
@@ -20,23 +20,27 @@ O livro apresenta uma abordagem prática e objetiva da análise de tráfego de r
 
 ## 📘 Progresso de Leitura
 
-- [ ] **Capítulo 1 – Introdução**
-- [ ] **Capítulo 2 – Conceitos Básicos**
-- [ ] **Capítulo 3 – Endereços MAC**
-- [ ] **Capítulo 4 – Protocolos ARP e RARP**
-- [ ] **Capítulo 5 – Endereços IP e Sub-redes**
-- [ ] **Capítulo 6 – ICMP**
-- [ ] **Capítulo 7 – UDP**
-- [ ] **Capítulo 8 – TCP**
-- [ ] **Capítulo 9 – DNS**
-- [ ] **Capítulo 10 – Análise de Tráfego HTTP**
-- [ ] **Capítulo 11 – FTP**
-- [ ] **Capítulo 12 – SMTP**
-- [ ] **Capítulo 13 – POP3 e IMAP**
-- [ ] **Capítulo 14 – SSH**
-- [ ] **Capítulo 15 – Ferramentas de Análise de Tráfego**
-- [ ] **Capítulo 16 – Captura de Tráfego**
-- [ ] **Capítulo 17 – Práticas e Estudos de Caso**
+- [ ] Capítulo 1 – O que é a análise de tráfego?
+- [ ] Capítulo 2 – Redes de computadores
+- [ ] Capítulo 3 – Redes TCP/IP
+- [ ] Capítulo 4 – Comandos para análise e auditoria de redes
+- [ ] Capítulo 5 – Protocolo IPv4
+- [ ] Capítulo 6 – Protocolo TCP
+- [ ]	Capítulo 7 – Protocolo UDP
+- [ ]	Capítulo 8 – Protocolo ICMP
+- [ ]	Capítulo 9 – Protocolo IPv6
+- [ ]	Capítulo 10 – Payloads que falam
+- [ ]	Capítulo 11 – Protocolos Ethernet, ARP e NDP
+- [ ]	Capítulo 12 – Modelo OSI
+- [ ]	Capítulo 13 – Roteamento em redes TCP/IP
+- [ ]	Capítulo 14 – Bridges e a sua utilidade na análise de tráfego
+- [ ]	Capítulo 15 – Tráfego DNS
+- [ ]	Capítulo 16 – Outros tráfegos comuns em redes
+- [ ]	Capítulo 17 – Sistemas de firewall
+- [ ]	Apêndice A – Simulador de redes CORE
+- [ ]	Apêndice B – Elementos básicos de segurança e administração em redes
+- [ ]	Apêndice C – Algumas ferramentas utilizadas neste livro e outras dicas
+- [ ]	Apêndice D – Portas TCP e UDP importantes
 
 
 ---
@@ -57,7 +61,7 @@ O livro apresenta uma abordagem prática e objetiva da análise de tráfego de r
 
 Os arquivos criado durante todo o projeto de estudo estão dentro de cada pasta a seguir:
 
-- **capturas/**: salvos os arquivos .pcap do Tcpdump ou Wireshark.
+- **capturas/**: salvos os arquivos .pcap do tcpdump ou Wireshark.
 - **scripts/**:  meus scripts em Bash, Python etc.
 - **imagens/**: meus prints de tela ou diagramas.
 - **docs/**: anotações em .md ou .txt sobre os capítulos.
