@@ -77,4 +77,4 @@ Os arquivos criados durante todo o estudo estão dentro de cada pasta a seguir:
 
 ---
 
-📌 *Este projeto faz parte dos meus estudos em redes e segurança da informação. Todo o conteúdo aqui é baseado no aprendizado contínuo e nas práticas que acompanham o livro de João Eriberto.*
+📌 *Este projeto faz parte dos meus estudos em redes e segurança da informação. Todo o conteúdo aqui é baseado no aprendizado contínuo e nas práticas que acompanham o livro acima referenciado.*
