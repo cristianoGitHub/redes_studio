@@ -20,9 +20,9 @@ O livro apresenta uma abordagem prática e objetiva da análise de tráfego de r
 
 ## 📘 Progresso de Leitura
 
-- [ ] Capítulo 1 – O que é a análise de tráfego?
-- [ ] Capítulo 2 – Redes de computadores
-- [ ] Capítulo 3 – Redes TCP/IP
+- [X] Capítulo 1 – O que é a análise de tráfego?
+- [X] Capítulo 2 – Redes de computadores
+- [X] Capítulo 3 – Redes TCP/IP
 - [ ] Capítulo 4 – Comandos para análise e auditoria de redes
 - [ ] Capítulo 5 – Protocolo IPv4
 - [ ] Capítulo 6 – Protocolo TCP
